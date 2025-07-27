@@ -17,7 +17,7 @@ A full-stack **Retrieval-Augmented Generation (RAG)** application designed to an
 4. [🛠 Backend Overview](#-backend-overview)
 5. [🎨 Frontend Overview](#-frontend-overview)
 6. [🌐 API Endpoints](#-api-endpoints)
-7. [📸 Screenshots](#-screenshots)
+7. [📸 Demo](#-screenshots)
 
 ---
 
@@ -88,6 +88,8 @@ A full-stack **Retrieval-Augmented Generation (RAG)** application designed to an
 
 ---
 
-## 📸 Screenshots
+## 📸 Demo
+[![Watch the video](https://img.youtube.com/vi/<3_w1uNfTnIM>/0.jpg)](https://www.youtube.com/watch?v=<3_w1uNfTnIM>)
+
 
 
