@@ -89,7 +89,7 @@ A full-stack **Retrieval-Augmented Generation (RAG)** application designed to an
 ---
 
 ## 📸 Demo
-[![Watch the video](https://img.youtube.com/vi/<3_w1uNfTnIM>/0.jpg)](https://www.youtube.com/watch?v=<3_w1uNfTnIM>)
+[![Watch the video](https://img.youtube.com/vi/3_w1uNfTnIM/0.jpg)](https://www.youtube.com/watch?v=3_w1uNfTnIM)
 
 
 
