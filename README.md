@@ -17,7 +17,8 @@ A full-stack **Retrieval-Augmented Generation (RAG)** application designed to an
 4. [🛠 Backend Overview](#-backend-overview)
 5. [🎨 Frontend Overview](#-frontend-overview)
 6. [🌐 API Endpoints](#-api-endpoints)
-7. [📸 Demo](#-screenshots)
+7. [📸 Demo](#-demo)
+8. [💡 Use Cases](#-use-cases)
 
 ---
 
@@ -90,6 +91,36 @@ A full-stack **Retrieval-Augmented Generation (RAG)** application designed to an
 
 ## 📸 Demo
 [![Watch the video](https://img.youtube.com/vi/3_w1uNfTnIM/0.jpg)](https://www.youtube.com/watch?v=3_w1uNfTnIM)
+
+
+---
+
+## 💡 Use Cases
+This RAG application can be applied in various real-world scenarios, including:
+
+### 1. **Document-Based Q&A**
+- Answer questions based on **company policies**, **research papers**, or **legal contracts**.
+- Quickly retrieve relevant sections from large document sets.
+
+### 2. **Customer Support**
+- Build a **smart chatbot** that can fetch answers from product manuals, FAQs, or troubleshooting guides.
+- Reduce response time by combining retrieval with LLM-generated explanations.
+
+### 3. **Knowledge Management**
+- Create a **knowledge assistant** for teams to query technical documentation, onboarding materials, or internal wikis.
+
+### 4. **OCR-Powered Search**
+- With **Mistral OCR**, you can extract text from **scanned PDFs** or **images** and query them directly.
+- Useful for industries dealing with **invoices, receipts, or historical documents**.
+
+### 5. **Research Assistance**
+- Summarize and find context from **academic papers**, **scientific journals**, and **ebooks**.
+- Augment LLM responses with **accurate references**.
+
+### 6. **Data Compliance & Auditing**
+- Quickly locate **regulatory clauses** or compliance details from large datasets.
+- Generate reports by querying legal or financial documents.
+
 
 
 
